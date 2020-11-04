@@ -2,7 +2,8 @@
 Just another repository
 ## Test Trial
 First steps in GitHub
-###Licensing
+### Licensing
+
 Copyright [2020] [Guenther Kafenda]
 
 Licensed under the Apache License, Version 2.0 (the "License");
